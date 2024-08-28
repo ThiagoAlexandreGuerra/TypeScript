@@ -1,0 +1,10 @@
+"use strict";
+let inteiro = 3;
+let real = 3.33;
+let texto = "Olá Mundo!";
+let logico = true;
+inteiro = "um";
+real = false;
+texto = 3.14;
+logico = 2;
+console.log("Olá Mundo! (TS)");
