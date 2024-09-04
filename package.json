@@ -9,7 +9,14 @@
     "exm03": "tsc && node ./dist/exm03.ts",
     "exm04": "tsc && node ./dist/exm04.ts",
     "exm05": "tsc && node ./dist/exm05.ts",
-    "exm06": "tsc && node ./dist/exm06.ts"
+    "exm06": "tsc && node ./dist/exm06.ts",
+    "exm07": "tsc && node ./dist/exm07.ts",
+    "exm08": "tsc && node ./dist/exm08.ts",
+    "exm09": "tsc && node ./dist/exm09.ts",
+    "exm10": "tsc && node ./dist/exm10.ts",
+    "exm11": "tsc && node ./dist/exm11.ts",
+    "exm12": "tsc && node ./dist/exm12.ts",
+    "exm13": "tsc && node ./dist/exm13.ts"
 
   },
   "keywords": [],
